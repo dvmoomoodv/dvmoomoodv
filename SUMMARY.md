@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Project
-* Test
+* [Project](project.md)
+* [Test](test.md)
 
