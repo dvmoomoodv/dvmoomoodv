@@ -2,5 +2,7 @@
 
 # Moomoo Profile
 
-dvmoomoodv
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvmoomoodv&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvmoomoodv)](https://github.com/dvmoomoodv/github-readme-stats)
 
